@@ -7,8 +7,7 @@ I am a passionate cybersecurity student and researcher, currently pursuing a **B
 
 ## 🔗 Links & Profiles
 - 🌐 [Linktree](https://linktr.ee/harikrishnank)
-- 🎯 [TryHackMe](https://tryhackme.com/r/p/haritheh4cker)
-  <img src="https://tryhackme-badges.s3.amazonaws.com/haritheh4cker.png" alt="Your Image Badge" />
+- 🎯 [TryHackMe](https://tryhackme.com/r/p/haritheh4cker)             <img src="https://tryhackme-badges.s3.amazonaws.com/haritheh4cker.png" alt="Your Image Badge" />
 - 🛡️ [PicoCTF](https://play.picoctf.org/users/harikrishnan4)
 - 🖥️ [GitHub](https://github.com/harikrishhnan)
 
