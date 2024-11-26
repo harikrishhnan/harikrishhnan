@@ -4,7 +4,7 @@
 ### 🔗 Links:  
 - [**Linktree**](https://linktr.ee/harikrishnank)  
 - [**TryHackMe**](https://tryhackme.com/r/p/haritheh4cker)
-- <img src="https://tryhackme-badges.s3.amazonaws.com/haritheh4cker.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/haritheh4cker.png" alt="Your Image Badge" />
 
 - [**PicoCTF**](https://play.picoctf.org/users/harikrishnan4)  
 
