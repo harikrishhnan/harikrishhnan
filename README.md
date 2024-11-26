@@ -1,42 +1,47 @@
-# 👋 Hi, I'm Harikrishan K!  
+# 👋 Hi, I'm Hari Krishnan K!
 
-## 🌐 Connect with Me  
-### 🔗 Links:  
-- [**Linktree**](https://linktr.ee/harikrishnank)  
-- [**TryHackMe**](https://tryhackme.com/r/p/haritheh4cker)
-<img src="https://tryhackme-badges.s3.amazonaws.com/haritheh4cker.png" alt="Your Image Badge" />
-
-- [**PicoCTF**](https://play.picoctf.org/users/harikrishnan4)  
+## 🌟 About Me
+I am a **final-year Computer Science and Business Systems student** with a passion for **cybersecurity**, **ethical hacking**, and creating impactful security tools. My focus areas include building efficient solutions like **CVE management systems**, **vulnerability scanners**, and contributing to community engagement through organizations like **OWASP Tiruvallur** and **Google Developer Groups**.
 
 ---
 
-## 🛡️ About Me  
-I'm a **final-year Computer Science Engineering student** with a deep passion for **cybersecurity**, **ethical hacking**, and solving challenges in the ever-evolving digital landscape. When I'm not diving into Capture The Flag (CTF) competitions or exploring the latest in network security, I aspire to contribute to the technical side of prestigious organizations like the **Indian Army**, **DIA**, **IB**, or **RAW**. My goal is to ensure safer cyberspaces for everyone.  
+## 🔗 Links & Profiles
+- 🌐 [Linktree](https://linktr.ee/harikrishnank)
+- 🎯 [TryHackMe](https://tryhackme.com/r/p/haritheh4cker)
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1285144" style='border:none;'></iframe>
+- 🛡️ [PicoCTF](https://play.picoctf.org/users/harikrishnan4)
+- 🖥️ [GitHub](https://github.com/harikrishhnan)
 
-## 💼 Areas of Expertise  
-- **Cybersecurity**: IDP/IPS systems, vulnerability assessments, and security best practices.  
-- **Ethical Hacking**: Skilled in identifying and mitigating vulnerabilities.  
-- **Networking**: Proficient in networking fundamentals and secure system architecture.  
-- **Programming**: Strong foundation in **Python** with a focus on security tools and automation.  
+---
+
+## 💼 Skills
+- **Cybersecurity Tools**: Burp Suite, Nmap, Wireshark, Metasploit, Splunk  
+- **Programming**: Python, Java, SQL  
+- **Networking**: TCP/IP protocols, secure systems  
+- **Ethical Hacking**: Web security, XSS vulnerability detection  
+
+---
+
+## 📂 Projects
+- **[CVE Data Retrieval and Management System](https://github.com/harikrishhnan/CVE-Data-Retrieval-and-Management-System-)**: Built using the CVE API for efficient vulnerability management.  
+- **[Vulnerability Scanner](https://github.com/harikrishhnan/Python-Security-_practice/tree/main/vulnerability_sc4nners)**: Detects XSS vulnerabilities in websites.  
+- **[Spam Detector](https://github.com/harikrishhnan/Email_spam_detector)**: Classifies emails as spam or legitimate using machine learning.  
+
+---
+
+## 🏆 Certifications
+- **Certified AppSec Practitioner** - The SecOps Group  
+- **Foundation of Cybersecurity** - Google  
+
+---
 
 ## 🌱 Currently Learning  
-- Advanced penetration testing techniques.  
-- Cryptography and secure communications.  
-- Improving my skills in **CTF challenges** (recently participated in Google CTF with my team).  
-
-## 🚀 Future Goals  
-- Develop impactful cybersecurity tools that bridge innovation and practicality.  
-- Serve in a technical role for India's defense or intelligence agencies.  
-- Advance research in intrusion detection/prevention systems and their real-world applications.  
-
-## 📫 Let's Connect!  
-- **LinkedIn**: [Harikrishan K](https://www.linkedin.com/in/harikrishank/)  
-- **GitHub**: You're already here! 😄  
-- **Email**: [your.email@example.com](mailto:your.email@example.com)  
-
-## 🌟 Fun Fact  
-I love tackling complex problems, whether it's decoding cryptic CTF puzzles or diving into research papers to innovate beyond the conventional.  
+- **Tryhackme CTF challenges** to enhance problem-solving in cybersecurity.  
+- Expanding knowledge in **web security labs** via **PortSwigger** and other platforms.  
 
 ---
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishankumaravel) 
 
-> _"Security is not a product, but a process."_ – Bruce Schneier  
+
+> "_Security is not a product, but a process."_ – Bruce Schneier
