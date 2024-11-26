@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Hari Krishnan K!
 
 ## 🌟 About Me
-I am a **final-year Computer Science and Business Systems student** with a passion for **cybersecurity**, **ethical hacking**, and creating impactful security tools. My focus areas include building efficient solutions like **CVE management systems**, **vulnerability scanners**, and contributing to community engagement through organizations like **OWASP Tiruvallur** and **Google Developer Groups**.
+I am a passionate cybersecurity student and researcher, currently pursuing a **B.Tech in Computer Science and Business Systems** at **Vel Tech Multi Tech Engineering College**. My enthusiasm for technology drives me to continually learn and explore the dynamic field of cybersecurity. Aspiring to become a penetration tester and bug bounty hunter, I am committed to identifying vulnerabilities and enhancing digital security while embracing the ongoing journey of skill development and discovery..
 
 ---
 
