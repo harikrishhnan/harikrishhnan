@@ -3,8 +3,7 @@
 ## 🌐 Connect with Me  
 ### 🔗 Links:  
 - [**Linktree**](https://linktr.ee/harikrishnank)  
-- [**TryHackMe**](https://tryhackme.com/r/p/haritheh4cker)  
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1285144" style='border:none;'></iframe>  
+- [**TryHackMe**](https://tryhackme.com/r/p/haritheh4cker)  (https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1285144)
 - [**PicoCTF**](https://play.picoctf.org/users/harikrishnan4)  
 
 ---
