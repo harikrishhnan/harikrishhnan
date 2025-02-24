@@ -6,7 +6,7 @@ I am a passionate cybersecurity student and researcher, currently pursuing a **B
 ---
 
 ## 🔗 Tryhackme Badge
- <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1285144" style='border:none;'></iframe>
+<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1285144" alt="Your Image Badge" />
 
 
 ---
